@@ -35,21 +35,5 @@ pass : 12345678
 2. user
 gmail : upih@gmail.com
 pass : 12345678
-gmail : handjoko@gmail.com
-pass : 12345678
-gmail : keshwari@gmail.com
-pass : 12345678
-gmail : kacaya@gmail.com
-pass : 12345678
-gmail : puri@gmail.com
-pass : 12345678
-gmail : suta@gmail.com
-pass : 12345678
-gmail : jenar@gmail.com
-pass : 12345678
-gmail : wita@gmail.com
-pass : 12345678
-gmail : sasmita@gmail.com
-pass : 12345678
 
 
